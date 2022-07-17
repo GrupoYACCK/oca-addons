@@ -50,3 +50,7 @@
 	path = server-ux
 	url = https://github.com/OCA/server-ux.git
 	branch = 15.0
+[submodule "credit-control"]
+	path = credit-control
+	url = https://github.com/OCA/credit-control.git
+	branch = 15.0
